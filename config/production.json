@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://mmaj6625:mmaj6625@clnet-4yoda.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "iamthebest",
+    "githubClientId": "3110c1365b8c4087bbf0",
+    "githubSecret": "0af4b594e7c6ff6466eada96eb3e6bdcefe0641c"
+}
